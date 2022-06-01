@@ -1,6 +1,6 @@
 # Orgs🌱
 O projeto Orgs foi desenvolvido como atividade do curso de React Native da plataforma Alura. É composto por apenas
-uma tela, tento o tema simular um aplicativo de venda de verduras.
+uma tela, tento como tema simular um aplicativo de venda de verduras.
 
 ## O que preciso instalar para rodar o programa?🤔
 NodeJS e Expo.

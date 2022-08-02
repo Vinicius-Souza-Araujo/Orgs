@@ -1,4 +1,4 @@
-# Orgs🌱
+# Orgs-Mobile🌱
 O projeto Orgs foi desenvolvido como atividade do curso de React Native da plataforma Alura. É composto por apenas
 uma tela, tento como tema simular um aplicativo de venda de verduras.
 

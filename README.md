@@ -11,3 +11,6 @@ npm install.
 
 Depois com o expo instalado em sua máquina digite:
 expo start.
+
+## Tecnologias utilizadas:
+ - React Native.
